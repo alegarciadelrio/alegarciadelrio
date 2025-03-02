@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>- 🔭 I’m currently working on,</h3>
+<h3>- 🔭 I’m currently working with,</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" />  
@@ -29,9 +29,9 @@ Here are some ideas to get you started:
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-<h3>My most recent articles</h3>
+
+<h3>🌱 My most recent articles,</h3>
 <ul>
-  
   <li><a href="https://segunale.blogspot.com/2025/02/send-teams-notification-when-azure.html"><i>Send teams notification when Azure DevOps Pull Request is created</i></a></li>
   <li><a href="https://segunale.blogspot.com/2025/02/install-kubernetes-ubuntu.html"><i>Install Kubernetes on Ubuntu</i></a></li>
   <li><a href="https://segunale.blogspot.com/2024/10/send-email-alert-when-aws-root-sign-in.html"><i>Send email alert when aws root sign-in</i></a></li>
