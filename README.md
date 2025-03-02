@@ -1,4 +1,5 @@
 ## Hi there 👋, I am Ale!
+![image](https://github.com/user-attachments/assets/fd341b1e-50a1-4d7c-b506-acec5e780356)
 
 ![](https://komarev.com/ghpvc/?username=alegarciadelrio)
 <!--
