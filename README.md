@@ -1,5 +1,4 @@
 ## Hi there 👋, I am Ale!
-![image](https://github.com/user-attachments/assets/fd341b1e-50a1-4d7c-b506-acec5e780356)
 
 ![](https://komarev.com/ghpvc/?username=alegarciadelrio)
 <!--
@@ -44,3 +43,8 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alegarciadelrio&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alegarciadelrio&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
+
+<h3>😄 Certs</h3>
+
+![image](https://github.com/user-attachments/assets/fd341b1e-50a1-4d7c-b506-acec5e780356)
