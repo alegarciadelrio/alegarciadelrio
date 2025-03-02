@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 
 <h3>My most recent articles</h3>
 <ul>
-  <li><a href="https://medium.com/@regondaakhil1509/getting-started-with-react-a-beginners-guide-to-setting-up-your-first-application-a6d8a1ae414"><i>Getting Started with React: A Beginner’s Guide to Setting Up Your First Application</i></a></li>
-  <li><a href="https://medium.com/@regondaakhil1509/pushing-your-first-react-app-to-github-a-step-by-step-guide-f7b592e67658"><i>Pushing Your First React App to GitHub: A Step-by-Step Guide</i></a></li>
-  <li><a href="https://medium.com/@regondaakhil1509/the-ultimate-checklist-for-starting-a-react-project-best-practices-and-tips-b73337b9b173"><i>The Ultimate Checklist for Starting a React Project: Best Practices and Tips</i></a></li>
+  
+  <li><a href="https://segunale.blogspot.com/2025/02/send-teams-notification-when-azure.html"><i>Send teams notification when Azure DevOps Pull Request is created</i></a></li>
+  <li><a href="https://segunale.blogspot.com/2025/02/install-kubernetes-ubuntu.html"><i>Install Kubernetes on Ubuntu</i></a></li>
+  <li><a href="https://segunale.blogspot.com/2024/10/send-email-alert-when-aws-root-sign-in.html"><i>Send email alert when aws root sign-in</i></a></li>
 </ul>
