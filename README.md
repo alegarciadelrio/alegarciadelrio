@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 
 
 <h3> Certified on</h3>
-
-![image](https://github.com/user-attachments/assets/fd341b1e-50a1-4d7c-b506-acec5e780356)
-![image](https://github.com/user-attachments/assets/2889e30d-140a-4521-a68d-c6172ba467eb)
+<p>
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/d6dc5b40fdf440cf8165be62ac408656"><img alt="awscloudpractitioner" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" /></a>
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/d862f01e412048c2922c7d7274d45ea5"><img alt="awssysops" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-SysOps-Administrator-Associate_badge.c3586b02748654fb588633314dd66a1d6841893b.png" />  </a>
+</p>
