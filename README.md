@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alegarciadelrio&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 
-<h3>😄 Certs</h3>
+<h3> Certified on</h3>
 
 ![image](https://github.com/user-attachments/assets/fd341b1e-50a1-4d7c-b506-acec5e780356)
+![image](https://github.com/user-attachments/assets/2889e30d-140a-4521-a68d-c6172ba467eb)
