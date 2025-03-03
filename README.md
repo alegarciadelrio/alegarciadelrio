@@ -1,8 +1,9 @@
 ## Hi there 👋, I am Ale!
 
+I am back in Uruguay. I am responsible for improving the IT services, understanding new technologies that make easier the job and consulting clients to help them advance their long-term goals!
+
 ![](https://komarev.com/ghpvc/?username=alegarciadelrio)
 
-I am back in Uruguay. I am responsible for improving the IT services, understanding new technologies that make easier the job and consulting clients to help them advance their long-term goals!
 <!--
 **alegarciadelrio/alegarciadelrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
