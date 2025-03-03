@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>🔭 I’m currently working with,</h3>
+<h3>🔭 I’m currently working with</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" />  
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<h3>💬 My most recent articles,</h3>
+<h3>💬 My most recent articles</h3>
 <ul>
   <li><a href="https://segunale.blogspot.com/2025/02/send-teams-notification-when-azure.html"><i>Send teams notification when Azure DevOps Pull Request is created</i></a></li>
   <li><a href="https://segunale.blogspot.com/2025/02/install-kubernetes-ubuntu.html"><i>Install Kubernetes on Ubuntu</i></a></li>
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alegarciadelrio&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 
-<h3> Certified on</h3>
+<h3>🤔 Certified on</h3>
 <p>
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/d6dc5b40fdf440cf8165be62ac408656"><img alt="awscloudpractitioner" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" /></a>
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/d862f01e412048c2922c7d7274d45ea5"><img alt="awssysops" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-SysOps-Administrator-Associate_badge.c3586b02748654fb588633314dd66a1d6841893b.png" />  </a>
