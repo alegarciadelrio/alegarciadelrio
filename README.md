@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Ale!
 
-I am back in Uruguay. I am responsible for improving the IT services, understanding new technologies that make easier the job and consulting clients to help them advance their long-term goals!
+I am responsible for improving the IT services, understanding new technologies that make easier the job and consulting clients to help them advance their long-term goals!
 
 ![](https://komarev.com/ghpvc/?username=alegarciadelrio)
 
