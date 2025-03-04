@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h3>🔭 I’m currently working with</h3>
 <p>
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-blue?style=flat-square&logoColor=white" />
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-black?style=flat-square&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" />  
   <img alt="bash" src="https://img.shields.io/badge/-Bash-grey?style=flat-square&logo=gnubash&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
