@@ -1,6 +1,10 @@
 ## Hi there 👋, I am Ale!
 
-I am responsible for improving the IT services, understanding new technologies that make easier the job and consulting clients to help them advance their long-term goals!
+I am a DevOps Engineer with strong linux background, interested on AI and cloud migration projects!
+
+- 🔭 I’m currently working on ProjectBoxcar, developing AI tools improve industry processes.
+- 👯 I’m looking to collaborate on AI projects and AWS migration projects.
+- ⚡ Fun fact: I need keep updating my blog because I can't remember all the things of this large IT world.
 
 ![](https://komarev.com/ghpvc/?username=alegarciadelrio)
 
@@ -9,7 +13,7 @@ I am responsible for improving the IT services, understanding new technologies t
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ProjectBoxcar, developing AI tools improve industry processes.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
