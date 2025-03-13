@@ -4,7 +4,7 @@ I am a DevOps Engineer with strong Linux background, interested on AI and cloud 
 
 - 🔭 I’m currently working on ProjectBoxcar, developing AI tools improve industry processes.
 - 👯 I’m looking to collaborate on AI projects and cloud projects.
-- ⚡ Fun fact: I need keep updating my blog because I can't remember all the things of this large IT world.
+- ⚡ Fun fact: I need keep updating my blog because I can't remember all the things.
 
 ![](https://komarev.com/ghpvc/?username=alegarciadelrio)
 
