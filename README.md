@@ -2,7 +2,7 @@
 
 I am a DevOps Engineer with strong Linux background, interested on AI and cloud migration projects!
 
-- 🔭 I’m currently working on ProjectBoxcar, developing AI tools improve industry processes.
+- 🔭 I’m currently working on ProjectBoxcar, developing AI tools to improve industry processes.
 - 👯 I’m looking to collaborate on AI projects and cloud projects.
 - ⚡ Fun fact: Most of these repos are work toolboxes.
 
