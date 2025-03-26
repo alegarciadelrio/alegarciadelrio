@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Ale!
 
-I am a DevOps Engineer with Linux background, interested on AI and cloud migration projects!
+I am a DevOps Engineer interested on AI and cloud migration projects!
 
 - 🔭 I’m currently working on Project Boxcar, developing AI tools to improve industry processes.
 - 👯 I’m looking to collaborate on AI and cloud projects.
