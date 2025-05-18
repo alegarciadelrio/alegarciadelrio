@@ -57,4 +57,5 @@ Here are some ideas to get you started:
 <p>
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/d6dc5b40fdf440cf8165be62ac408656"><img alt="awscloudpractitioner" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" /></a>
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/d862f01e412048c2922c7d7274d45ea5"><img alt="awssysops" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-SysOps-Administrator-Associate_badge.c3586b02748654fb588633314dd66a1d6841893b.png" />  </a>
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/d862f01e412048c2922c7d7274d45ea5"><img alt="awsdeveloper" src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Developer-Associate_badge_150x150.a8973e238efb2d1b0b24f5282e1ad87eb554e6ef.png" />  </a>
 </p>
