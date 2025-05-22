@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <h3>🤔 Certified on</h3>
 <p>
-  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/d6dc5b40fdf440cf8165be62ac408656"><img alt="awscloudpractitioner" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" width="10%"/></a>
-  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/d862f01e412048c2922c7d7274d45ea5"><img alt="awssysops" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-SysOps-Administrator-Associate_badge.c3586b02748654fb588633314dd66a1d6841893b.png" /></a>
-  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/571c876854b7477589313e8c8de5526e"><img alt="awsdeveloper" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" /></a>
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/d6dc5b40fdf440cf8165be62ac408656"><img alt="awscloudpractitioner" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" width="30%"/></a>
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/d862f01e412048c2922c7d7274d45ea5"><img alt="awssysops" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-SysOps-Administrator-Associate_badge.c3586b02748654fb588633314dd66a1d6841893b.png" width="30%"/></a>
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/571c876854b7477589313e8c8de5526e"><img alt="awsdeveloper" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" width="30%"/></a>
 </p>
