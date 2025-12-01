@@ -2,7 +2,7 @@
 
 I am a DevOps Engineer interested on AI and cloud migration projects!
 
-- 🔭 I’m currently working on Project Boxcar, developing AI tools to improve industry processes.
+- 🔭 I’m currently working on Capmation.
 - 👯 I’m looking to collaborate on AI and cloud projects.
 - ⚡ Fun fact: Most of these repos are work toolboxes.
 
